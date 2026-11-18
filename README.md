@@ -1,4 +1,4 @@
-# Todo Tutorial
+# 추추추추추추추추
 
 [Claude Code Playbook](https://docs.claude-hunt.com) 강의에서 작은 할 일 앱을 직접 만들어 보며 Claude Code 쓰는 법을 배우는 연습용 저장소입니다.
 
